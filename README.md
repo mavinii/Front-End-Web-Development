@@ -4,7 +4,7 @@ BSC20921 - Semester 1 &amp; 2 Brendan Munnelly
 # Portfolio
 https://mavinii.github.io/marcosoliveira
 
-# Smoothies Website
+# Smoothies
 https://mavinii.github.io/Smooth-Smoothies
 
 # Fashion:
