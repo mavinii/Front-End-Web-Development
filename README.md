@@ -9,3 +9,6 @@ https://mavinii.github.io/Smooth-Smoothies
 
 # Fashion:
 https://mavinii.github.io/fashionv2
+
+# Snazzy Crypto Wallet:
+https://mavinii.github.io/snazzy-crypto-wallet
