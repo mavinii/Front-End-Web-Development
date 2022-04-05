@@ -1,14 +1,17 @@
 # Front-End Web Development:
-Dorset College - BSC20921 - Semester 1 &amp; 2 Brendan Munnelly
+- Dorset College BSC20921 
+- Semester 1 &amp; 2
+- Module title = Front-end Web Development
+- Lecturer name = Brendan Munnelly
 
-# Portfolio:
+## Portfolio:
 https://mavinii.github.io/marcosoliveira
 
-# Smoothies:
+## Smoothies:
 https://mavinii.github.io/Smooth-Smoothies
 
-# Fashion:
+## Fashion:
 https://mavinii.github.io/fashionv2
 
-# Snazzy Crypto Wallet:
+## Snazzy Crypto Wallet:
 https://mavinii.github.io/snazzy-crypto-wallet
