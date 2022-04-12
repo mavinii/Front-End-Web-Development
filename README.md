@@ -25,5 +25,5 @@ https://mavinii.github.io/fashionv2
 ## Snazzy Crypto Wallet:
 https://mavinii.github.io/snazzy-crypto-wallet
 
-## Projet Hero
+## Projet Hero:
 https://mavinii.github.io/project-hero
